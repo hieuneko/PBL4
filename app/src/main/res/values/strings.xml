@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PBL4</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+    <string name="gmail">Gmail</string>
+    <string name="gallery">Gallery</string>
+    <string name="sms">SMS</string>
+    <string name="contact">Contact</string>
+</resources>
